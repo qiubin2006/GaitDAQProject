@@ -60,6 +60,7 @@ Date:yyyy-mm-dd</Property>
 				<Item Name="Get UI Refnums.vi" Type="VI" URL="../Get UI Refnums.vi"/>
 				<Item Name="Set UI Refnums.vi" Type="VI" URL="../Set UI Refnums.vi"/>
 			</Item>
+			<Item Name="Initial Global.vi" Type="VI" URL="../Initial Global.vi"/>
 			<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
 		</Item>
 		<Item Name="Initialize" Type="Folder">
@@ -84,6 +85,11 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="This_Panel Close Handler.vi" Type="VI" URL="../This_Panel Close Handler.vi"/>
 			<Item Name="This_Exit Handler.vi" Type="VI" URL="../This_Exit Handler.vi"/>
 			<Item Name="This_Exit Btn Value Change Handler.vi" Type="VI" URL="../This_Exit Btn Value Change Handler.vi"/>
+			<Item Name="This_Acquire or Review Value Change Handler.vi" Type="VI" URL="../This_Acquire or Review Value Change Handler.vi"/>
+			<Item Name="This_COM Open or Close Value Change Handler.vi" Type="VI" URL="../This_COM Open or Close Value Change Handler.vi"/>
+			<Item Name="This_Camera Discover ValueChange Handler 4.vi" Type="VI" URL="../This_Camera Discover ValueChange Handler 4.vi"/>
+			<Item Name="This_Camera Open or Close Value Change Handler.vi" Type="VI" URL="../This_Camera Open or Close Value Change Handler.vi"/>
+			<Item Name="This_Time Out Handler.vi" Type="VI" URL="../This_Time Out Handler.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh xx.vit" Type="VI" URL="../Refresh xx.vit"/>
@@ -100,6 +106,7 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="Generate Initialize Finish Event.vi" Type="VI" URL="../Generate Initialize Finish Event.vi"/>
 			<Item Name="Generate Show UI Event.vi" Type="VI" URL="../Generate Show UI Event.vi"/>
 		</Item>
+		<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 	</Item>
 </Library>
-<?sig 370F8F838067632E7DFDDC259C455A65?>
+<?sig 15275E29CDC8EF71BB9B7BBAB28829B9?>
