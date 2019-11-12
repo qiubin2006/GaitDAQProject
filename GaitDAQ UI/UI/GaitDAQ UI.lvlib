@@ -90,6 +90,7 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="This_Camera Discover ValueChange Handler 4.vi" Type="VI" URL="../This_Camera Discover ValueChange Handler 4.vi"/>
 			<Item Name="This_Camera Open or Close Value Change Handler.vi" Type="VI" URL="../This_Camera Open or Close Value Change Handler.vi"/>
 			<Item Name="This_Time Out Handler.vi" Type="VI" URL="../This_Time Out Handler.vi"/>
+			<Item Name="This_Log or Unlog Value Change Handler.vi" Type="VI" URL="../This_Log or Unlog Value Change Handler.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh xx.vit" Type="VI" URL="../Refresh xx.vit"/>
@@ -107,6 +108,7 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="Generate Show UI Event.vi" Type="VI" URL="../Generate Show UI Event.vi"/>
 		</Item>
 		<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
+		<Item Name="Vision Acquisition Image Logging.vi" Type="VI" URL="../Vision Acquisition Image Logging.vi"/>
 	</Item>
 </Library>
-<?sig 15275E29CDC8EF71BB9B7BBAB28829B9?>
+<?sig 4D6F0D01B723E568A2228078300EA3FB?>

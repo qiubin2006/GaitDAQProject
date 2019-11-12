@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="GaitDAQ UI.lvlib" Type="Library" URL="../UI/GaitDAQ UI.lvlib"/>
 		<Item Name="GaitDAQ UI Event.lvlib" Type="Library" URL="../Event/GaitDAQ UI Event.lvlib"/>
-		<Item Name="Vision Acquisition Image Logging.vi" Type="VI" URL="../UI/Vision Acquisition Image Logging.vi"/>
+		<Item Name="Calculate Frames per Second.vi" Type="VI" URL="../UI/Calculate Frames per Second.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -78,6 +78,7 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="Create Directory Recursive.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Create Directory Recursive.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Common.lvlib" Type="Library" URL="/&lt;userlib&gt;/JUL/Common Module/Com Library/Common.lvlib"/>
