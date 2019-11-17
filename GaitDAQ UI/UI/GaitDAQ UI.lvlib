@@ -109,6 +109,7 @@ Date:yyyy-mm-dd</Property>
 		</Item>
 		<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 		<Item Name="Vision Acquisition Image Logging.vi" Type="VI" URL="../Vision Acquisition Image Logging.vi"/>
+		<Item Name="Calculate Frames per Second.vi" Type="VI" URL="../Calculate Frames per Second.vi"/>
 	</Item>
 </Library>
-<?sig 4D6F0D01B723E568A2228078300EA3FB?>
+<?sig 822ECD56E8E6D35D8062CE86794DA1FC?>
