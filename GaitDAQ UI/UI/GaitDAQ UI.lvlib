@@ -34,7 +34,6 @@ Date:yyyy-mm-dd</Property>
 			</Item>
 		</Item>
 		<Item Name="xx.vit" Type="VI" URL="../xx.vit"/>
-		<Item Name="Decode Foot Image.vi" Type="VI" URL="../Decode Foot Image.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -110,10 +109,10 @@ Date:yyyy-mm-dd</Property>
 		</Item>
 		<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 		<Item Name="Vision Acquisition Image Logging.vi" Type="VI" URL="../Vision Acquisition Image Logging.vi"/>
-		<Item Name="Calculate Frames per Second.vi" Type="VI" URL="../Calculate Frames per Second.vi"/>
 		<Item Name="Decode.vi" Type="VI" URL="../Decode.vi"/>
 		<Item Name="Sign.ctl" Type="VI" URL="../Sign.ctl"/>
 		<Item Name="Step.ctl" Type="VI" URL="../Step.ctl"/>
+		<Item Name="Decode Foot Image.vi" Type="VI" URL="../Decode Foot Image.vi"/>
 	</Item>
 </Library>
-<?sig 1922B0E10F71677E14396CA1E0EC2F3C?>
+<?sig E844040768384868688E44C4B3844A48?>
