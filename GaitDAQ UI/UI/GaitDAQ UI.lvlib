@@ -91,6 +91,7 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="This_Camera Open or Close Value Change Handler.vi" Type="VI" URL="../This_Camera Open or Close Value Change Handler.vi"/>
 			<Item Name="This_Time Out Handler.vi" Type="VI" URL="../This_Time Out Handler.vi"/>
 			<Item Name="This_Log or Unlog Value Change Handler.vi" Type="VI" URL="../This_Log or Unlog Value Change Handler.vi"/>
+			<Item Name="This_Load or Stop Value Change Handler.vi" Type="VI" URL="../This_Load or Stop Value Change Handler.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh xx.vit" Type="VI" URL="../Refresh xx.vit"/>
@@ -115,4 +116,4 @@ Date:yyyy-mm-dd</Property>
 		<Item Name="Decode Foot Image.vi" Type="VI" URL="../Decode Foot Image.vi"/>
 	</Item>
 </Library>
-<?sig E844040768384868688E44C4B3844A48?>
+<?sig 67FA6FFACA572E2850BA657512EEDD75?>
