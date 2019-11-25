@@ -93,6 +93,7 @@ Date:yyyy-mm-dd</Property>
 			<Item Name="This_Log or Unlog Value Change Handler.vi" Type="VI" URL="../This_Log or Unlog Value Change Handler.vi"/>
 			<Item Name="This_Load or Stop Value Change Handler.vi" Type="VI" URL="../This_Load or Stop Value Change Handler.vi"/>
 			<Item Name="This_Play or Pause Handler.vi" Type="VI" URL="../This_Play or Pause Handler.vi"/>
+			<Item Name="This_Slide Value Change Handler.vi" Type="VI" URL="../This_Slide Value Change Handler.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh xx.vit" Type="VI" URL="../Refresh xx.vit"/>
@@ -117,4 +118,4 @@ Date:yyyy-mm-dd</Property>
 		<Item Name="Decode Foot Image.vi" Type="VI" URL="../Decode Foot Image.vi"/>
 	</Item>
 </Library>
-<?sig 704927F92F323BE8E13AD40C31132C51?>
+<?sig 372D49EB9910613C5989D569121F800F?>
