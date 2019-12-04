@@ -16,4 +16,4 @@
 *.lvlps
 
 #Floder
-.builds
+/builds
